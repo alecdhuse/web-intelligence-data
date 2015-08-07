@@ -401,9 +401,11 @@
                     "version": 4,
                     "start": "128.148.0.0",
                     "end":   "128.148.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Providence",
+                    "division": "Rhode Island",
+                    "lng": -71.4025,
+                    "lat": 41.8262
                 }
             ]
         },
@@ -6084,6 +6086,21 @@
                     "country": "",
                     "city": "",
                     "division": ""
+                }
+            ]
+        },
+        {
+            "name" : "University of Bristol",
+            "country": "GB",
+            "domain": "bristol.ac.uk",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.222.0.0",
+                    "end":   "137.222.255.255",
+                    "country": "GB",
+                    "city": "Bristol",
+                    "division": "South West"
                 }
             ]
         },
