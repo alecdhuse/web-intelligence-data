@@ -5804,9 +5804,9 @@
                     "version": 4,
                     "start": "128.252.0.0",
                     "end":   "128.252.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "St. Louis",
+                    "division": "Missouri"
                 }
             ]
         },
@@ -5819,9 +5819,9 @@
                     "version": 4,
                     "start": "141.217.0.0",
                     "end":   "141.217.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Detroit",
+                    "division": "Michigan"
                 }
             ]
         },
@@ -5840,9 +5840,9 @@
                     "version": 4,
                     "start": "143.43.128.0",
                     "end":   "143.43.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Macomb",
+                    "division": "Illinois"
                 }
             ]
         },
@@ -5855,9 +5855,9 @@
                     "version": 4,
                     "start": "161.6.0.0",
                     "end":   "161.6.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Bowling Green",
+                    "division": "Kentucky"
                 }
             ]
         },
@@ -5876,9 +5876,9 @@
                     "version": 4,
                     "start": "140.160.0.0",
                     "end":   "140.160.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Bellingham",
+                    "division": "Washington"
                 }
             ]
         },
@@ -5891,9 +5891,9 @@
                     "version": 4,
                     "start": "192.138.89.0",
                     "end":   "192.138.89.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Wheaton",
+                    "division": "Illinois"
                 }
             ]
         },
@@ -5906,9 +5906,9 @@
                     "version": 4,
                     "start": "199.89.174.0",
                     "end":   "199.89.175.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Walla Walla",
+                    "division": "Washington"
                 }
             ]
         },
@@ -5921,9 +5921,9 @@
                     "version": 4,
                     "start": "158.104.0.0",
                     "end":   "158.104.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Salem",
+                    "division": "Oregon"
                 }
             ]
         },
@@ -5936,9 +5936,9 @@
                     "version": 4,
                     "start": "137.165.0.0",
                     "end":   "137.165.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Williamstown",
+                    "division": "Massachusetts"
                 }
             ]
         },
@@ -5951,9 +5951,9 @@
                     "version": 4,
                     "start": "199.17.0.0",
                     "end":   "199.17.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Winona",
+                    "division": "Minnesota"
                 }
             ]
         },
@@ -5966,9 +5966,9 @@
                     "version": 4,
                     "start": "136.227.0.0",
                     "end":   "136.227.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Springfield",
+                    "division": "Ohio"
                 }
             ]
         },
@@ -5987,9 +5987,9 @@
                     "version": 4,
                     "start": "130.215.0.0",
                     "end":   "130.215.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Worcester",
+                    "division": "Massachusetts"
                 }
             ]
         },
@@ -6002,9 +6002,9 @@
                     "version": 4,
                     "start": "198.30.0.0",
                     "end":   "198.30.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Cincinnati",
+                    "division": "Ohio"
                 }
             ]
         },
@@ -6017,9 +6017,9 @@
                     "version": 4,
                     "start": "130.132.0.0",
                     "end":   "130.132.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "New Haven",
+                    "division": "Connecticut"
                 }
             ]
         },
@@ -6027,7 +6027,16 @@
             "name" : "York College of Pennsylvania",
             "country": "US",
             "domain": "ycp.edu",
-            "networks": [ ]
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.245.87.0",
+                    "end":   "192.245.87.255",
+                    "country": "US",
+                    "city": "York",
+                    "division": "Pennsylvania"
+                }
+            ]
         },
         {
             "name" : "York University",
@@ -6038,9 +6047,9 @@
                     "version": 4,
                     "start": "130.63.0.0",
                     "end":   "130.63.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "CA",
+                    "city": "Toronto",
+                    "division": "Ontario"
                 }
             ]
         },
@@ -6053,9 +6062,9 @@
                     "version": 4,
                     "start": "150.134.0.0",
                     "end":   "150.134.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Youngstown",
+                    "division": "Ohio"
                 }
             ]
         },
@@ -6068,9 +6077,9 @@
                     "version": 4,
                     "start": "205.211.26.0",
                     "end":   "205.211.78.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "CA",
+                    "city": "Ottawa",
+                    "division": "Ontario"
                 }
             ]
         },
@@ -6083,9 +6092,9 @@
                     "version": 4,
                     "start": "74.123.180.0",
                     "end":   "74.123.183.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "New Britain",
+                    "division": "Connecticut"
                 }
             ]
         },
