@@ -1,4 +1,5 @@
 {
+    "description": "List of country level 2 divisions. Not guaranteed to be complete or accurate.",
     "divisions" : {
         "Alabama": "US",
         "Alaska": "US",
