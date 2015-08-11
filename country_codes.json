@@ -41,6 +41,10 @@
             "ISO 3166-1 alpha-2": "AG",
             "ISO 3166-1 alpha-3": "ATG"
         },
+        "Aotearoa": }
+            "ISO 3166-1 alpha-2": "NZ",
+            "ISO 3166-1 alpha-3": "NZL"
+        },
         "Argentina": {
             "ISO 3166-1 alpha-2": "AR",
             "ISO 3166-1 alpha-3": "ARG"
