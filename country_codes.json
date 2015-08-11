@@ -109,6 +109,10 @@
             "ISO 3166-1 alpha-2": "BT",
             "ISO 3166-1 alpha-3": "BTN"
         },
+        "Bolivia": {
+            "ISO 3166-1 alpha-2": "BO",
+            "ISO 3166-1 alpha-3": "BOL"
+        },
         "Bolivia, Plurinational State of": {
             "ISO 3166-1 alpha-2": "BO",
             "ISO 3166-1 alpha-3": "BOL"
