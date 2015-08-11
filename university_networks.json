@@ -38,14 +38,14 @@
                     "version": 4,
                     "start": "192.147.12.0",
                     "end":   "192.147.12.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Garden City",
+                    "division": "New York"
                 }
             ]
         },
         {
-            "name" : "Adelphi University",
+            "name" : "Aims Community College",
             "country": "US",
             "domain": "aims.edu",
             "networks": [
@@ -53,9 +53,9 @@
                     "version": 4,
                     "start": "205.169.248.0",
                     "end":   "205.169.249.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Greeley",
+                    "division": "Colorado"
                 }
             ]
         },
@@ -93,9 +93,9 @@
                     "version": 4,
                     "start": "168.32.0.0",
                     "end":   "168.60.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "San Angelo",
+                    "division": "Texas"
                 }
             ]
         },
@@ -108,9 +108,9 @@
                     "version": 4,
                     "start": "152.10.0.0",
                     "end":   "152.10.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Boone",
+                    "division": "North Carolina"
                 }
             ]
         },
@@ -129,17 +129,17 @@
                     "version": 4,
                     "start": "129.219.0.0",
                     "end":   "129.219.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Tempe",
+                    "division": "Arizona"
                 },
                 {
                     "version": 4,
                     "start": "206.206.192.0",
                     "end":   "206.206.223.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Tempe",
+                    "division": "Arizona"
                 }
             ]
         },
@@ -152,9 +152,9 @@
                     "version": 4,
                     "start": "147.97.0.0",
                     "end":   "147.97.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Jonesboro",
+                    "division": "Arkansas"
                 }
             ]
         },
@@ -167,9 +167,9 @@
                     "version": 4,
                     "start": "69.65.160.0",
                     "end":   "69.65.191.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Russellville",
+                    "division": "Arkansas"
                 }
             ]
         },
@@ -181,16 +181,16 @@
         },
         {
             "name" : "Assiniboine Community College",
-            "country": "US",
+            "country": "CA",
             "domain": "assiniboine.net",
             "networks": [
                 {
                     "version": 4,
                     "start": "216.36.130.0",
                     "end":   "216.36.130.255",
-                    "country": "",
+                    "country": "CA",
                     "city": "",
-                    "division": ""
+                    "division": "Manitoba"
                 }
             ]
         },
@@ -203,9 +203,9 @@
                     "version": 4,
                     "start": "131.204.0.0",
                     "end":   "131.204.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Auburn",
+                    "division": "Alabama"
                 }
             ]
         },
@@ -218,8 +218,8 @@
                     "version": 4,
                     "start": "156.62.0.0",
                     "end":   "156.62.255.255",
-                    "country": "",
-                    "city": "",
+                    "country": "NZ",
+                    "city": "Auckland",
                     "division": ""
                 }
             ]
@@ -233,9 +233,9 @@
                     "version": 4,
                     "start": "199.184.236.0",
                     "end":   "199.184.238.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Azusa",
+                    "division": "California"
                 }
             ]
         },
@@ -248,9 +248,9 @@
                     "version": 4,
                     "start": "147.226.0.0",
                     "end":   "147.226.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Muncie",
+                    "division": "Indiana"
                 }
             ]
         },
@@ -269,9 +269,9 @@
                     "version": 4,
                     "start": "129.62.0.0",
                     "end":   "129.62.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Waco",
+                    "division": "Texas"
                 }
             ]
         },
@@ -290,9 +290,9 @@
                     "version": 4,
                     "start": "168.16.0.0",
                     "end":   "168.31.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Atlanta",
+                    "division": "Georgia"
                 }
             ]
         },
@@ -305,9 +305,9 @@
                     "version": 4,
                     "start": "132.178.0.0",
                     "end":   "132.178.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Boise",
+                    "division": "Idaho"
                 }
             ]
         },
@@ -326,9 +326,9 @@
                     "version": 4,
                     "start": "136.167.0.0",
                     "end":   "136.167.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Chestnut Hill",
+                    "division": "Massachusetts"
                 }
             ]
         },
@@ -341,9 +341,9 @@
                     "version": 4,
                     "start": "128.197.0.0",
                     "end":   "128.197.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Chestnut Hill",
+                    "division": "Massachusetts"
                 }
             ]
         },
@@ -356,9 +356,9 @@
                     "version": 4,
                     "start": "139.140.0.0",
                     "end":   "139.140.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Brunswick",
+                    "division": "Maine"
                 }
             ]
         },
@@ -371,9 +371,9 @@
                     "version": 4,
                     "start": "129.64.0.0",
                     "end":   "129.64.255.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
+                    "country": "US",
+                    "city": "Waltham",
+                    "division": "Massachusetts"
                 }
             ]
         },
@@ -386,7 +386,7 @@
                     "version": 4,
                     "start": "128.187.0.0",
                     "end":   "128.187.255.255",
-                    "country": "",
+                    "country": "US",
                     "city": "",
                     "division": ""
                 }
