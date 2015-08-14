@@ -1263,6 +1263,10 @@
         "city": "GREENVALE",
         "state": "NY"
     },
+    "11549": {
+        "city": "East Garden City",
+        "state": "NY"
+    },
     "11550": {
         "city": "HEMPSTEAD",
         "state": "NY"
@@ -2109,6 +2113,10 @@
     },
     "12125": {
         "city": "NEW LEBANON",
+        "state": "NY"
+    },
+    "12128": {
+        "city": "Colonie",
         "state": "NY"
     },
     "12130": {
@@ -5879,6 +5887,10 @@
         "city": "ROCHESTER",
         "state": "NY"
     },
+    "14626": {
+        "city": "Brighton Town",
+        "state": "NY"
+    },
     "14701": {
         "city": "JAMESTOWN",
         "state": "NY"
@@ -8881,6 +8893,10 @@
     },
     "16801": {
         "city": "STATE COLLEGE",
+        "state": "PA"
+    },
+    "16802": {
+        "city": "State College",
         "state": "PA"
     },
     "16803": {
@@ -12523,6 +12539,10 @@
         "city": "WASHINGTON",
         "state": "DC"
     },
+    "20057": {
+        "city": "WASHINGTON",
+        "state": "DC"
+    },
     "20601": {
         "city": "WALDORF",
         "state": "MD"
@@ -12829,6 +12849,10 @@
     },
     "20740": {
         "city": "COLLEGE PARK",
+        "state": "MD"
+    },
+    "20742": {
+        "city": "College Park",
         "state": "MD"
     },
     "20743": {
@@ -13529,6 +13553,10 @@
     },
     "21240": {
         "city": "BALTIMORE",
+        "state": "MD"
+    },
+    "21252": {
+        "city": "Towson",
         "state": "MD"
     },
     "21401": {
@@ -15687,6 +15715,10 @@
         "city": "RICHMOND",
         "state": "VA"
     },
+    "23284": {
+        "city": "Richmond",
+        "state": "VA"
+    }
     "23294": {
         "city": "RICHMOND",
         "state": "VA"
@@ -23343,6 +23375,10 @@
         "city": "COLUMBIA",
         "state": "SC"
     },
+    "29208": {
+        "city": "Columbia",
+        "state": "SC"
+    },
     "29209": {
         "city": "COLUMBIA",
         "state": "SC"
@@ -23369,6 +23405,10 @@
     },
     "29303": {
         "city": "VALLEY FALLS",
+        "state": "SC"
+    },
+    "29305": {
+        "city": "Spartanburg",
         "state": "SC"
     },
     "29321": {
@@ -24989,6 +25029,10 @@
     },
     "30319": {
         "city": "ATLANTA",
+        "state": "GA"
+    },
+    "30322": {
+        "city": "Atlanta",
         "state": "GA"
     },
     "30324": {
@@ -28509,6 +28553,10 @@
     },
     "33122": {
         "city": "MIAMI",
+        "state": "FL"
+    },
+    "33124": {
+        "city": "Coral Gables",
         "state": "FL"
     },
     "33125": {
@@ -41335,6 +41383,10 @@
         "city": "STREETSBORO",
         "state": "OH"
     },
+    "44243": {
+        "city": "Kent",
+        "state": "OH"
+    },
     "44253": {
         "city": "LITCHFIELD",
         "state": "OH"
@@ -41717,6 +41769,10 @@
     },
     "44515": {
         "city": "AUSTINTOWN",
+        "state": "OH"
+    },
+    "44555": {
+        "city": "Youngstown",
         "state": "OH"
     },
     "44601": {
@@ -42513,6 +42569,10 @@
     },
     "45220": {
         "city": "CINCINNATI",
+        "state": "OH"
+    },
+    "45221": {
+        "city": "Cincinnati",
         "state": "OH"
     },
     "45223": {
@@ -47811,6 +47871,10 @@
         "city": "EAST LANSING",
         "state": "MI"
     },
+    "48824": {
+        "city": "East Lansing",
+        "state": "MI"
+    }
     "48827": {
         "city": "EATON RAPIDS",
         "state": "MI"
@@ -49845,6 +49909,10 @@
     },
     "50010": {
         "city": "AMES",
+        "state": "IA"
+    },
+    "50014": {
+        "city": "Ames",
         "state": "IA"
     },
     "50020": {
@@ -53845,6 +53913,10 @@
     },
     "53140": {
         "city": "KENOSHA",
+        "state": "WI"
+    },
+    "53141": {
+        "city": "Parkside",
         "state": "WI"
     },
     "53142": {
@@ -64811,6 +64883,10 @@
         "city": "EVANSTON",
         "state": "IL"
     },
+    "60208": {
+        "city": "Evanston",
+        "state": "IL"
+    },
     "60301": {
         "city": "OAK PARK",
         "state": "IL"
@@ -68657,6 +68733,10 @@
     },
     "62707": {
         "city": "ANDREW",
+        "state": "IL"
+    },
+    "62712": {
+        "city": "Springfield",
         "state": "IL"
     },
     "62801": {
@@ -73579,6 +73659,10 @@
         "city": "KANSAS CITY",
         "state": "KS"
     },
+    "66160": {
+        "city": "Kansas City",
+        "state": "KS"
+    },
     "66202": {
         "city": "COUNTRYSIDE",
         "state": "KS"
@@ -73829,6 +73913,10 @@
     },
     "66502": {
         "city": "MANHATTAN",
+        "state": "KS"
+    },
+    "66506": {
+        "city": "Manhattan",
         "state": "KS"
     },
     "66507": {
@@ -77695,6 +77783,10 @@
         "city": "KEARNEY",
         "state": "NE"
     },
+    "68849": {
+        "city": "Kearney",
+        "state": "NE"
+    },
     "68850": {
         "city": "LEXINGTON",
         "state": "NE"
@@ -79471,6 +79563,10 @@
         "city": "BATON ROUGE",
         "state": "LA"
     },
+    "70803": {
+        "city": "Baton Rouge",
+        "state": "LA"
+    }
     "70805": {
         "city": "BATON ROUGE",
         "state": "LA"
@@ -82345,6 +82441,10 @@
     },
     "72756": {
         "city": "ROGERS",
+        "state": "AR"
+    },
+    "72758": {
+        "city": "Rogers",
         "state": "AR"
     },
     "72760": {
@@ -86355,6 +86455,10 @@
         "city": "APPLEBY",
         "state": "TX"
     },
+    "75962": {
+        "city": "Nacogdoches",
+        "state": "TX"
+    },
     "75966": {
         "city": "NEWTON",
         "state": "TX"
@@ -86693,6 +86797,10 @@
     },
     "76127": {
         "city": "CARSWELL AFB",
+        "state": "TX"
+    },
+    "76129": {
+        "city": "Fort Worth",
         "state": "TX"
     },
     "76131": {
@@ -88281,6 +88389,10 @@
     },
     "77340": {
         "city": "HUNTSVILLE",
+        "state": "TX"
+    },
+    "77340": {
+        "city": "Huntsville",
         "state": "TX"
     },
     "77345": {
@@ -94831,6 +94943,10 @@
         "city": "MOSCOW",
         "state": "ID"
     },
+    "83844": {
+        "city": "Moscow",
+        "state": "ID"
+    },
     "83845": {
         "city": "MOYIE SPRINGS",
         "state": "ID"
@@ -95419,6 +95535,10 @@
         "city": "OGDEN",
         "state": "UT"
     },
+    "84408": {
+        "city": "Ogden",
+        "state": "UT"
+    },
     "84414": {
         "city": "OGDEN",
         "state": "UT"
@@ -95873,6 +95993,10 @@
     },
     "85044": {
         "city": "PHOENIX",
+        "state": "AZ"
+    },
+    "85050": {
+        "city": "Phoenix",
         "state": "AZ"
     },
     "85051": {
@@ -96453,6 +96577,10 @@
     },
     "85708": {
         "city": "TUCSON",
+        "state": "AZ"
+    },
+    "85709": {
+        "city": "Tucson",
         "state": "AZ"
     },
     "85710": {
@@ -98591,6 +98719,10 @@
         "city": "LOS ANGELES",
         "state": "CA"
     },
+    "90094": {
+        "city": "Playa Vista",
+        "state": "CA"
+    },
     "90201": {
         "city": "BELL GARDENS",
         "state": "CA"
@@ -99863,6 +99995,14 @@
         "city": "SAN YSIDRO",
         "state": "CA"
     },
+    "92182": {
+        "city": "San Diego",
+        "state": "CA"
+    },
+    "92092": {
+        "city": "San Diego",
+        "state": "CA"
+    },
     "92201": {
         "city": "CHIRIACO SUMMIT",
         "state": "CA"
@@ -100721,6 +100861,10 @@
     },
     "93105": {
         "city": "SANTA BARBARA",
+        "state": "CA"
+    },
+    "93106": {
+        "city": "Santa Barbara",
         "state": "CA"
     },
     "93108": {
@@ -106599,6 +106743,10 @@
         "city": "TUKWILA",
         "state": "WA"
     },
+    "98195": {
+        "city": "Seattle",
+        "state": "WA"
+    },
     "98198": {
         "city": "DES MOINES",
         "state": "WA"
@@ -109427,6 +109575,10 @@
         "city": "BOSTON",
         "state": "MA"
     },
+    "02238": {
+        "city": "Cambridge",
+        "state": "MA"
+    },
     "01749": {
         "city": "HUDSON",
         "state": "MA"
@@ -110293,6 +110445,10 @@
     },
     "06262": {
         "city": "QUINEBAUG",
+        "state": "CT"
+    },
+    "06269": {
+        "city": "Storrs",
         "state": "CT"
     },
     "01608": {
@@ -111221,6 +111377,10 @@
     },
     "02571": {
         "city": "WAREHAM",
+        "state": "MA"
+    },
+    "01003": {
+        "city": "Amherst",
         "state": "MA"
     },
     "01008": {
@@ -113005,6 +113165,10 @@
     },
     "02917": {
         "city": "SMITHFIELD",
+        "state": "RI"
+    },
+    "02918": {
+        "city": "Providence",
         "state": "RI"
     },
     "02916": {

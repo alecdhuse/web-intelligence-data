@@ -449,6 +449,10 @@
             "ISO 3166-1 alpha-2": "IT",
             "ISO 3166-1 alpha-3": "ITA"
         },
+        "Italia": {
+            "ISO 3166-1 alpha-2": "IT",
+            "ISO 3166-1 alpha-3": "ITA"
+        },
         "Jamaica": {
             "ISO 3166-1 alpha-2": "JM",
             "ISO 3166-1 alpha-3": "JAM"
@@ -948,6 +952,10 @@
         "United Arab Emirates": {
             "ISO 3166-1 alpha-2": "AE",
             "ISO 3166-1 alpha-3": "ARE"
+        },
+        "United Kingdom": {
+            "ISO 3166-1 alpha-2": "GB",
+            "ISO 3166-1 alpha-3": "GBR"
         },
         "United Kingdom of Great Britain and Northern Ireland": {
             "ISO 3166-1 alpha-2": "GB",
