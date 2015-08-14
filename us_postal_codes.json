@@ -20879,6 +20879,10 @@
         "city": "DURHAM",
         "state": "NC"
     },
+    "27710": {
+        "city": "Durham",
+        "state": "NC"
+    },
     "27712": {
         "city": "DURHAM",
         "state": "NC"
@@ -23505,6 +23509,10 @@
     },
     "29420": {
         "city": "CHARLESTON",
+        "state": "SC"
+    },
+    "29424": {
+        "city": "Charleston",
         "state": "SC"
     },
     "29426": {
@@ -32353,6 +32361,10 @@
     },
     "36830": {
         "city": "AUBURN",
+        "state": "AL"
+    },
+    "36849": {
+        "city": "Auburn",
         "state": "AL"
     },
     "36850": {
@@ -87775,6 +87787,10 @@
         "city": "SAN ANGELO",
         "state": "TX"
     },
+    "76909": {
+        "city": "San Angelo",
+        "state": "TX"
+    },
     "76930": {
         "city": "BARNHART",
         "state": "TX"
@@ -94703,6 +94719,10 @@
         "city": "GARDEN CITY",
         "state": "ID"
     },
+    "83725": {
+        "city": "Boise City",
+        "state": "ID"
+    },
     "83801": {
         "city": "ATHOL",
         "state": "ID"
@@ -95465,6 +95485,10 @@
     },
     "84601": {
         "city": "PROVO",
+        "state": "UT"
+    },
+    "84602": {
+        "city": "Provo",
         "state": "UT"
     },
     "84604": {
@@ -99019,6 +99043,10 @@
         "city": "SAN MARINO",
         "state": "CA"
     },
+    "91125": {
+        "city": "Pasadena",
+        "state": "CA"
+    },
     "91201": {
         "city": "GLENDALE",
         "state": "CA"
@@ -100989,6 +101017,10 @@
     },
     "93405": {
         "city": "SAN LUIS OBISPO",
+        "state": "CA"
+    },
+    "93407": {
+        "city": "San Luis Obispo",
         "state": "CA"
     },
     "93420": {
@@ -112959,6 +112991,10 @@
         "city": "CRANSTON",
         "state": "RI"
     },
+    "02912": {
+        "city": "Providence",
+        "state": "RI"
+    },
     "02915": {
         "city": "RIVERSIDE",
         "state": "RI"
@@ -115975,6 +116011,10 @@
         "city": "ISLAND POND",
         "state": "VT"
     },
+    "02467": {
+        "city": "Chestnut Hill",
+        "state": "MA"
+    },
     "05847": {
         "city": "LOWELL",
         "state": "VT"
@@ -117414,6 +117454,14 @@
     "03087": {
         "city": "WINDHAM",
         "state": "NH"
+    },
+    "02452": {
+        "city": "Waltham",
+        "state": "MA"
+    },
+    "02454": {
+        "city": "Waltham",
+        "state": "MA"
     },
     "02667": {
         "city": "WELLFLEET",
