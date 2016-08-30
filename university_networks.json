@@ -1389,7 +1389,7 @@
                 {
                     "version": 4,
                     "start": "138.87.0.0",
-                    "end":   "138.87.255.25",
+                    "end":   "138.87.255.255",
                     "country": "",
                     "city": "",
                     "division": ""
@@ -1839,8 +1839,8 @@
                     "version": 4,
                     "start": "206.212.0.0",
                     "end":   "206.212.63.255",
-                    "country": "",
-                    "city": "",
+                    "country": "US",
+                    "city": "Huntington",
                     "division": ""
                 }
             ]
@@ -2127,21 +2127,6 @@
             "country": "US",
             "domain": "moreheadstate.edu",
             "networks": [ ]
-        },
-        {
-            "name" : "Montgomery County Community College",
-            "country": "US",
-            "domain": "mc3.edu",
-            "networks": [
-                {
-                    "version": 4,
-                    "start": "192.245.50.0",
-                    "end":   "192.245.50.255",
-                    "country": "",
-                    "city": "",
-                    "division": ""
-                }
-            ]
         },
         {
             "name" : "Mount Royal University",
